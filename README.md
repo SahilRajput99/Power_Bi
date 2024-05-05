@@ -2,6 +2,10 @@
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
 
+## Problem Statment
+
+The dashboard aims to provide insights into the demographics, career paths, and job satisfaction levels of individuals working in the data industry. By analyzing this data, organizations can better understand the needs and preferences of their employees, identify areas for improvement, and make data-driven decisions to enhance employee satisfaction and retention.
+
 ## Objective
 
 The objective of this project is to analyze the provided dataset using Power BI to gain insights into the following areas:
